@@ -10,3 +10,10 @@ Diego Moron
 
 
 Christian Cevallos - Cronograma
+
+
+Arquitectura Tecnologica
+
+
+
+
